@@ -16,11 +16,11 @@
 
 - <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> **Flutter** 앱 개발 - **쾌속거래 플랫폼 레이숍** [https://github.com/AsanHO/rayshop](https://github.com/AsanHO/rayshop)
   
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React** 웹 개발 공부 중 [https://github.com/whgustj00/MovieApp_React_Practice]
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React** 웹 개발 공부 중 [https://github.com/whgustj00/MovieApp_React_Practice](https://github.com/whgustj00/MovieApp_React_Practice)
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python**을 통한 데이터 시각화 및 분석 [https://github.com/whgustj00/DataVisualization]
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python**을 통한 데이터 시각화 및 분석 [https://github.com/whgustj00/DataVisualization](https://github.com/whgustj00/DataVisualization)
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식을 통한 사고 예방 프로젝트 [https://github.com/whgustj00/SBSproject]
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식을 통한 사고 예방 프로젝트 [https://github.com/whgustj00/SBSproject](https://github.com/whgustj00/SBSproject)
 
 <hr />
 
