@@ -8,22 +8,28 @@
 
 - 🔭 **선문대학교 AI소프트웨어학과 재학 중**
 
-- 🌱 **프론트엔드 개발자로 성장하기 위해 몰두 중**
+- 🌱 **프론트엔드 개발자로 성장하기 위해 몰두**
   
 - 🏆 **선문대학교 AI소프트웨어학과 학술제 팀 프로젝트 최우수상 ➜ 대학 소개팅 어플 '캠썸'** 
 <hr />
-<h3 align="left"> Favorite Work :</h3>
+<h3 align="left"> Favorite Project :</h3>
 
-- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> **Flutter** 앱 개발 - **쾌속거래 플랫폼 레이숍** [https://github.com/AsanHO/rayshop](https://github.com/AsanHO/rayshop)
+- <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> **Flutter** 앱 개발 ➜ **쾌속거래 플랫폼 레이숍** [https://github.com/AsanHO/rayshop](https://github.com/AsanHO/rayshop)
   
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React** 웹 개발 공부 중 [https://github.com/whgustj00/MovieApp_React_Practice](https://github.com/whgustj00/MovieApp_React_Practice)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React** 웹 개발 [https://github.com/whgustj00/MovieApp_React_Practice](https://github.com/whgustj00/MovieApp_React_Practice)
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python**을 통한 데이터 시각화 및 분석 [https://github.com/whgustj00/DataVisualization](https://github.com/whgustj00/DataVisualization)
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식을 통한 사고 예방 프로젝트 [https://github.com/whgustj00/SBSproject](https://github.com/whgustj00/SBSproject)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식 사고 예방 프로젝트 ➜ **SBS Project** [https://github.com/whgustj00/SBSproject](https://github.com/whgustj00/SBSproject)
 
 <hr />
+<h3 align="left"> Learning :</h3>
 
+- 📖 **정보처리기사 실기** 공부 중
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React** 공부 중
+
+<hr />
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
@@ -35,6 +41,11 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 </p>
+
+<hr />
+<h3 align="left"> Others :</h3>
+
+육군 전술C4I운용병(전산병) : 서버 및 전산 장비 관리, 네트워크 망 구성, 네트워크 제어
 
 <hr />
 <h3 align="left">How to reach me :</h3>
