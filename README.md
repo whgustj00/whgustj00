@@ -1,5 +1,7 @@
-<h1 align="center">몰두하는 개발자 조현서 입니다</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=60" width="100%" />
+<h1 align="center">시각적 경험을 창조하는 개발자, 조현서입니다.</h1>
 <h3 align="center">프론트엔드 개발자로서 성장 중</h3>
+<br/>
 
 <hr />
 <h3 align="left"> Who am I? </h3>
@@ -9,7 +11,6 @@
 - 🌱 **프론트엔드 개발자로 성장하기 위해 몰두 중**
   
 - 🏆 **선문대학교 AI소프트웨어학과 학술제 팀 프로젝트 최우수상 ➜ 대학 소개팅 어플 '캠썸'** 
-
 <hr />
 <h3 align="left"> Favorite Work :</h3>
 
@@ -20,7 +21,6 @@
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python**을 통한 데이터 시각화 및 분석 (https://github.com/whgustj00/DataVisualization)
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 인식을 통한 사고 예방 프로젝트 (https://github.com/whgustj00/SBSproject)
-
 
 <hr />
 
@@ -40,3 +40,6 @@
 <h3 align="left">How to reach me :</h3>
 
 📫 **whgustj00@naver.com**
+
+<hr />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
