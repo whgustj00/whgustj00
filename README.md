@@ -20,7 +20,7 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python**을 통한 데이터 시각화 및 분석 (https://github.com/whgustj00/DataVisualization)
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 인식을 통한 사고 예방 프로젝트 (https://github.com/whgustj00/SBSproject)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식을 통한 사고 예방 프로젝트 (https://github.com/whgustj00/SBSproject)
 
 <hr />
 
