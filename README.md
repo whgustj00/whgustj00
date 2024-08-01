@@ -25,8 +25,6 @@
 <hr />
 <h3 align="left"> Learning :</h3>
 
-- 📖 **정보처리기사 실기** 공부 중
-
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React** 공부 중
 
 <hr />
@@ -44,6 +42,8 @@
 
 <hr />
 <h3 align="left"> Others :</h3>
+
+정보처리기사
 
 육군 전술C4I운용병(전산병) : 서버 및 전산 장비 관리, 네트워크 망 구성, 네트워크 제어
 
