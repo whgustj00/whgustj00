@@ -12,7 +12,7 @@
   
 - 🏆 **선문대학교 AI소프트웨어학과 학술제 팀 프로젝트 발표회 최우수상 ➜ 대학 소개팅 어플 '캠썸'** 
 <hr />
-<h3 align="left"> Favorite Project :</h3>
+<h3 align="left"> Main Project :</h3>
 
 - <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="15" height="15"/> **Flutter** 앱 개발 ➜ **쾌속거래 플랫폼 레이숍** [https://github.com/AsanHO/rayshop](https://github.com/AsanHO/rayshop)
   
