@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=60" width="100%" />
-<h1 align="center">비전 기술을 학습중인 조현서입니다.</h1>
-<h3 align="center">백엔드 개발자로서 성장 중</h3>
+<h1 align="center">백엔드 개발자로서 성장 중인 조현서입니다.</h1>
+<h3 align="center">비전 기술에 대한 학습 중</h3>
 <br/>
 
 <hr />
