@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=150&section=header&text=&fontSize=60" width="100%" />
-<h1 align="center">시각적 경험을 창조하는 개발자, 조현서입니다.</h1>
-<h3 align="center">프론트엔드 개발자로서 성장 중</h3>
+<h1 align="center">비전 기술을 학습중인 조현서입니다.</h1>
+<h3 align="center">백엔드 개발자로서 성장 중</h3>
 <br/>
 
 <hr />
@@ -8,7 +8,7 @@
 
 - 🔭 **선문대학교 AI소프트웨어학과 재학 중**
 
-- 🌱 **프론트엔드 개발자로 성장하기 위해 몰두**
+- 🌱 **백엔드 개발자로 성장하기 위해 몰두**
   
 - 🏆 **선문대학교 AI소프트웨어학과 학술제 팀 프로젝트 발표회 최우수상 ➜ 대학 소개팅 어플 '캠썸'** 
 <hr />
