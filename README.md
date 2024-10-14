@@ -22,6 +22,8 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식 사고 예방 프로젝트 ➜ **SBS Project** [https://github.com/whgustj00/SBSproject](https://github.com/whgustj00/SBSproject)
 
+- OCR을 이용한 문서 처리 웹 서비스 **OCR 비즈니스 어시스턴트**[https://github.com/whgustj00/OCR-Project](https://github.com/whgustj00/OCR-Project)
+
 <hr />
 <h3 align="left"> Learning :</h3>
 
