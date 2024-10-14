@@ -13,7 +13,7 @@
 <hr />
 <h3 align="left"> Main Project :</h3>
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **Python, React, OCR** 문서 처리 웹 서비스 ➜ **OCR 비즈니스 어시스턴트** [https://github.com/whgustj00/OCR-Project](https://github.com/whgustj00/OCR-Project)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **Python, React, OCR** 문서 처리 웹 서비스 ➜ **OCR 비즈니스 어시스턴트** [https://github.com/whgustj00/OCR-Project](https://github.com/whgustj00/OCR-Business-Assistant](https://github.com/whgustj00/OCR-Project](https://github.com/whgustj00/OCR-Business-Assistant)
   
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, YOLO v8** 영상 객체 인식 사고 예방 프로젝트 ➜ **SBS Project** [https://github.com/whgustj00/SBSproject](https://github.com/whgustj00/SBSproject)
   
