@@ -30,7 +30,7 @@
 <h3 align="left"> Learning :</h3>
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> **React**
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, Flask, OCR**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> **Python, Flask, OCR, LLM, RAG**
 
 <hr />
 <h3 align="left">Skill :</h3>
